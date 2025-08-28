@@ -1,6 +1,6 @@
 Note: As an adapted best practice, we are filling out a copy of the "PROSPERO" Systematic review preregistration. Because that system is exclusive to medical and similar systematic reviews, this is being done separately.
 
-The initial preregistratino was Jul 21. Amendments to the protocol are tracked in the Git repository. Major changes are listed below:
+The initial preregistration was Jul 21. Amendments to the protocol are tracked in the Git repository. Major changes are listed below:
 (28-Aug-2025):
 - Include 2 additional sources and searches omitted accidentally, which had been planned and performed beforehand.
 - Clarify extracted items and reported outcomes based on early results.
