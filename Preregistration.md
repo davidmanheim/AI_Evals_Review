@@ -5,6 +5,9 @@ The initial preregistration was Jul 21. Amendments to the protocol are tracked i
 - Include 2 additional sources and searches omitted accidentally, which had been planned and performed beforehand.
 - Clarify extracted items and reported outcomes based on early results.
 - Explain more about the currently planned categorization of results, extraction, and process.
+(12-Jan-2026):
+- Add names of reviewers and contributors added over the past several months
+- Clarify codebook for the extraction and review
 
 Review title
 ------------
@@ -78,11 +81,13 @@ Data extraction (selection and coding)
 --------------------------------------
 
 All reviews with lists of best practices will be selected. This will be done by at least one reviewer, initially screened based on title, then checked based on the abstract and/or full text to confirm relevance.
-For selecteded papers, the list of recommendations will be extracted and categorized. (They may be rphrased or generalized.)
+For selecteded papers, the list of recommendations will be extracted and categorized. (They may be rephrased or generalized.)
+
+The items will be coded based on the Codebook, v. 1.0, finalized December 22. 
 
 Risk of bias (quality) assessment
 ---------------------------------
-We plan that at least two reviewers will review each selected paper for inclusion, and during the grouping and distiallation process, reviewers and other participants will be able to check that the recommendations correctly reflect what the paper suggests.
+At least two reviewers will review each selected paper for inclusion, and during the grouping and distiallation process, reviewers and other participants will be able to check that the recommendations correctly reflect what the paper suggests.
 
 PLANNED DATA SYNTHESIS
 ======================
@@ -102,14 +107,17 @@ REVIEW AFFILIATION, FUNDING AND PEER REVIEW
 Review team members
 -------------------
 
--   David Manheim
-
--   Others to be determined.
+-   David Manheim, Methodology Lead
+-   Andrea Loehr, Overall Systematic Review Lead
+-   Yilin Huang
+-   Drishti Sharma
+-   Ishan Khire
+-   Amit Saha
 
 Review affiliation
 ------------------
 
-Consortium (to be named)
+[Evaluation Consensus Consortium](https://evals-consensus.ai/)
 
 Funding source
 --------------
@@ -120,4 +128,4 @@ Named contact
 -------------
 
 David Manheim.\
-david@alter.org.il
+methods@evals-consensus.ai
