@@ -5,6 +5,7 @@ The initial preregistration was Jul 21. Amendments to the protocol are tracked i
 - Include 2 additional sources and searches omitted accidentally, which had been planned and performed beforehand.
 - Clarify extracted items and reported outcomes based on early results.
 - Explain more about the currently planned categorization of results, extraction, and process.
+
 (12-Jan-2026):
 - Add names of reviewers and contributors added over the past several months
 - Clarify codebook for the extraction and review
